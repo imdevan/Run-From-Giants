@@ -6,7 +6,7 @@ Game for Google Cardboard
 ### cardboard-unity-master
 Cardboard plugin for  Unity
 
-### Attack On Oculus
+### Original Attack On Oculus Game
 Orginal game made for the Oculus Rift
 To run: open "destroyed_city" scene in "Assets\Destroyed_city_FREE\Scenes"
 
